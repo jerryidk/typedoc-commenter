@@ -1,0 +1,14 @@
+{
+  "name": "typedoc-commenter",
+  "version": "1.0.1",
+  "description": "a program to autogenerate documentation for decorator syntax",
+  "bin": {
+    "commenter": "./target/release/regex"
+  },
+  "files": [
+    "./src/main.rs",
+    "./target/release/regex"
+  ],
+  "author": "Jerry Zhang",
+  "license": "ISC"
+}
